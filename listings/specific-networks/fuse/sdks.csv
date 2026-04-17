@@ -1,3 +1,5 @@
 slug,provider,offer,actionButtons,toolType,programmingLanguage,tag,description,planType,planName,price,trial,starred,dependencies,latestKnownVersion,latestKnownReleaseDate,maintainer,license
+hardhat-mainnet,,!offer:hardhat,"[""[Fuse Docs](https://docs.fuse.io/developers/web3-tools)""]",,,,,,,,,,,,,,
 hyperlane-sdk-mainnet,,!offer:hyperlane-sdk,"[""[Website](https://www.fuse.io/ecosystem?tag=dev-tools)""]",,,,,,,,,,,,,,
+thirdweb-sdk-mainnet,,!offer:thirdweb-sdk,"[""[Fuse Docs](https://docs.fuse.io/developers/web3-tools)""]",,,,,,,,,,,,,,
 turnkey-sdk-mainnet,,!offer:turnkey-sdk-free,"[""[Website](https://www.fuse.io/ecosystem?tag=dev-tools)""]",,,,,,,,,,,,,,
