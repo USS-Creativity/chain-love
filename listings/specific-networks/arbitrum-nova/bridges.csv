@@ -1,0 +1,10 @@
+slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,supportedChains,tag
+arbitrum-native,,!offer:arbitrum-native,,nova,,,,,,,,,,,,,,,,,,
+celer,,!offer:celer,,nova,,,,,,,,,,,,,,,,,,
+hop,,!offer:hop,,nova,,,,,,,,,,,,,,,,,,
+layerswap,,!offer:layerswap,,nova,,,,,,,,,,,,,,,,,,
+meson,,!offer:meson,,nova,,,,,,,,,,,,,,,,,,
+orbiter,,!offer:orbiter,,nova,,,,,,,,,,,,,,,,,,
+owlto,,!offer:owlto,,nova,,,,,,,,,,,,,,,,,,
+smolrefuel,,!offer:smolrefuel,,nova,,,,,,,,,,,,,,,,,,
+symbiosis,,!offer:symbiosis,,nova,,,,,,,,,,,,,,,,,,
