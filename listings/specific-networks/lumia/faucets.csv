@@ -1,0 +1,2 @@
+slug,provider,offer,actionButtons,chain,requiresLogin,hasCaptcha,requiredMainnetBalance,price,dripLimitAmount,dripLimitPeriod,additionalNotes,starred,tag
+lumia-beam-faucet,,!offer:lumia-faucet,"[""[Faucet](https://beam-faucet.lumia.org/)"",""[Docs](https://docs.lumia.org/build/build-environment/testnet-tokens)""]",testnet,,,,,,,,,
