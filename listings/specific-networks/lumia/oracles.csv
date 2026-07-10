@@ -1,0 +1,6 @@
+slug,provider,offer,actionButtons,chain,technology,starred,availableApis,monitoringAndAnalytics,additionalFeatures,dataTypes,decentralizationModel,economicalSecurity,economicalSecurityNote,sdk,auditsPerformed,tag
+api3-mainnet,,!offer:api3,"[""[Website](https://market.api3.org/lumia)"",""[Docs](https://docs.lumia.org/build/oracles/api3)""]",mainnet,,,,,,,,,,,,
+api3-testnet,,!offer:api3,"[""[Website](https://market.api3.org/lumia-sepolia-testnet)"",""[Docs](https://docs.lumia.org/build/oracles/api3)""]",testnet,,,,,,,,,,,,
+lumia-commodity-price-oracle-mainnet,,!offer:lumia-commodity-price-oracle,"[""[Docs](https://docs.lumia.org/build/oracles/commodity-prices)"",""[Contract](https://explorer.lumia.org/address/0x146447574c02deB3B802A1d4c9447CB7648aA56D)""]",mainnet,,,,,,,,,,,,
+lumia-commodity-price-oracle-testnet,,!offer:lumia-commodity-price-oracle,"[""[Docs](https://docs.lumia.org/build/oracles/commodity-prices)"",""[Contract](https://beam-explorer.lumia.org/address/0x146447574c02deB3B802A1d4c9447CB7648aA56D)""]",testnet,,,,,,,,,,,,
+supra-mainnet,,!offer:supra,"[""[Docs](https://docs.lumia.org/build/oracles/supra)"",""[Contract](https://explorer.lumia.org/address/0x16f70cAD28dd621b0072B5A8a8c392970E87C3dD)""]",mainnet,,,,,,,,,,,,
