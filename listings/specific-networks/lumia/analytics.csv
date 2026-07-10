@@ -1,0 +1,11 @@
+slug,provider,offer,actionButtons,chain,dataSources,hasDashboard,historicalData,availableApis,price,planName,planType,starred,tag
+coingecko-api-analyst,,!offer:coingecko-api-analyst,"[""[Dashboard](https://www.coingecko.com/en/coins/lumia)""]",mainnet,,,,,,,,,
+coingecko-api-basic,,!offer:coingecko-api-basic,"[""[Dashboard](https://www.coingecko.com/en/coins/lumia)""]",mainnet,,,,,,,,,
+coingecko-api-lite,,!offer:coingecko-api-lite,"[""[Dashboard](https://www.coingecko.com/en/coins/lumia)""]",mainnet,,,,,,,,,
+coinmarketcap-basic,,!offer:coinmarketcap-basic,"[""[Dashboard](https://coinmarketcap.com/currencies/lumia/)""]",mainnet,,,,,,,,,
+coinmarketcap-hobbyist,,!offer:coinmarketcap-hobbyist,"[""[Dashboard](https://coinmarketcap.com/currencies/lumia/)""]",mainnet,,,,,,,,,
+coinmarketcap-professional,,!offer:coinmarketcap-professional,"[""[Dashboard](https://coinmarketcap.com/currencies/lumia/)""]",mainnet,,,,,,,,,
+coinmarketcap-standard,,!offer:coinmarketcap-standard,"[""[Dashboard](https://coinmarketcap.com/currencies/lumia/)""]",mainnet,,,,,,,,,
+coinmarketcap-startup,,!offer:coinmarketcap-startup,"[""[Dashboard](https://coinmarketcap.com/currencies/lumia/)""]",mainnet,,,,,,,,,
+l2beat-mainnet,,!offer:l2beat,"[""[Dashboard](https://l2beat.com/scaling/projects/lumia)""]",mainnet,,,,,,,,,
+tokenterminal-mainnet,,!offer:tokenterminal,"[""[Dashboard](https://tokenterminal.com/explorer/projects/lumia)""]",mainnet,,,,,,,,,
