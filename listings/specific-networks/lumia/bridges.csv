@@ -1,0 +1,4 @@
+slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,supportedChains,tag
+hyperlane-mainnet,,!offer:hyperlane,"[""[Bridge](https://hyper.lumia.org/)"",""[Docs](https://docs.lumia.org/lumia/interoperability/hyperlane)""]",mainnet,,,,,,,,,,,,,,,,,,
+lumia-native-zkevm-bridge-mainnet,,!offer:lumia-native-zkevm-bridge,"[""[Bridge](https://bridge.lumia.org/)"",""[Docs](https://docs.lumia.org/build/introduction/bridge-to-from-lumia-l2)""]",mainnet,,,,,,,,,,,,,,,,,,
+thirdweb-bridge-mainnet,,!offer:thirdweb-bridge,"[""[Bridge](https://thirdweb.com/lumia-prism)""]",mainnet,,,,,,,,,,,,,,,,,,
