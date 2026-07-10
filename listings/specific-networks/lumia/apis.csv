@@ -1,3 +1,9 @@
 slug,provider,offer,actionButtons,planName,planType,historicalData,apiType,technology,chain,accessPrice,queryPrice,starred,trial,availableApis,limitations,securityImprovements,monitoringAndAnalytics,regions,additionalFeatures,address,tag,uptimeSla,verifiedUptime,blocksBehindSla,verifiedBlocksBehindAvg,bandwidthSla,verifiedLatency,supportSla
+goldsky-mainnet-enterprise-indexer,,!offer:goldsky-enterprise-indexer,"[""[Docs](https://docs.lumia.org/build/indexers)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
+goldsky-mainnet-free-indexer,,!offer:goldsky-free-indexer,"[""[Docs](https://docs.lumia.org/build/indexers)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
+goldsky-mainnet-pay-as-you-go-indexer,,!offer:goldsky-pay-as-you-go-indexer,"[""[Buy](https://goldsky.com/pricing)"",""[Docs](https://docs.lumia.org/build/indexers)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
 lumia-mainnet-public-rpc-recent-state,,!offer:lumia-public-rpc-recent-state,"[""[Docs](https://docs.lumia.org/build/build-environment/rpc)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
 lumia-testnet-public-rpc-recent-state,,!offer:lumia-public-rpc-recent-state,"[""[Docs](https://docs.lumia.org/build/build-environment/rpc)""]",,,,,,testnet,,,,,,,,,,,,,,,,,,,
+thegraph-mainnet-enterprise-indexer,,!offer:thegraph-enterprise-indexer,"[""[Docs](https://docs.lumia.org/build/indexers)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
+thegraph-mainnet-free-indexer,,!offer:thegraph-free-indexer,"[""[Docs](https://docs.lumia.org/build/indexers)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
+thegraph-mainnet-pay-as-you-go-indexer,,!offer:thegraph-pay-as-you-go-indexer,"[""[Buy](https://thegraph.com/studio-pricing/)"",""[Docs](https://docs.lumia.org/build/indexers)""]",,,,,,mainnet,,,,,,,,,,,,,,,,,,,
