@@ -1,0 +1,6 @@
+slug,provider,offer,actionButtons,toolType,programmingLanguage,tag,description,planType,planName,price,trial,starred,dependencies,latestKnownVersion,latestKnownReleaseDate,maintainer,license
+ethers-js,,!offer:ethers-js,"[""[Docs](https://docs.lumia.org/build/smartcontracts/interact)""]",,,,,,,,,,,,,,
+hardhat,,!offer:hardhat,"[""[Docs](https://docs.lumia.org/build/smartcontracts/deployment/hardhat)"",""[Verify](https://docs.lumia.org/build/smartcontracts/verify/hardhat)""]",,,,,,,,,,,,,,
+openzeppelin,,!offer:openzeppelin,"[""[Docs](https://docs.lumia.org/build/smartcontracts/deployment)""]",,,,,,,,,,,,,,
+thirdweb-sdk,,!offer:thirdweb-sdk,"[""[Docs](https://thirdweb.com/lumia-prism)""]",,,,,,,,,,,,,,
+web3-js,,!offer:web3-js,"[""[Docs](https://docs.lumia.org/build/smartcontracts/interact)""]",,,,,,,,,,,,,,
